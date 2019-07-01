@@ -1,0 +1,7 @@
+C:\Users\Алексей\source\monitor\monitor\bin\Release\monitor.exe.config
+C:\Users\Алексей\source\monitor\monitor\bin\Release\monitor.exe
+C:\Users\Алексей\source\monitor\monitor\bin\Release\monitor.pdb
+C:\Users\Алексей\source\monitor\monitor\obj\Release\monitor.csprojAssemblyReference.cache
+C:\Users\Алексей\source\monitor\monitor\obj\Release\monitor.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\monitor\monitor\obj\Release\monitor.exe
+C:\Users\Алексей\source\monitor\monitor\obj\Release\monitor.pdb
